@@ -4,7 +4,7 @@ Project Folder Location
 
 
 Copy the entire project folder to the following path:
-C:\\praktinis assignment\\
+C:\\praktinis assignment\\  (must match this: "C\praktinis assignment" (no underscore))
 The folder structure must match this location exactly for the automation logic to function correctly.
 
 
