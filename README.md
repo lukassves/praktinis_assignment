@@ -176,11 +176,7 @@ Subflow: loan\_submit
 
 Opens a bank account for the client.
 
-
-
 Submits a loan request.
-
-
 
 Moves to the next client.
 
